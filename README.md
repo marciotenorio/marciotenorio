@@ -4,7 +4,7 @@
 
 <h1>Olá 👋, Márcio Tenório</h1>
 
-<h3 align="left">Desenvolvedor backend interessado em sistemas distribuídos</h3>
+<h3 align="left">Desenvolvedor backend interessado em programação distribuída</h3>
 
 - 🔭 Trabalhando em [Portal Rotas](https://portalrotas.imd.ufrn.br/)
 
