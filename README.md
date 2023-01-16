@@ -14,7 +14,7 @@
 
 - 📄 Sobre minhas experiências [https://www.linkedin.com/in/marciotenorioj](https://www.linkedin.com/in/marciotenorioj)
 
-- ⚡ Fato curioso **Sou músico de araque**
+- ⚡ Fato curioso: **Músico de araque, filosofo de mesa e contemplador do mar nas horas vagas**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
