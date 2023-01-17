@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h1>Olá 👋, Márcio Tenório</h1>
+<h1>Olá 👋, sou Márcio Tenório</h1>
 
 <h3 align="left">Desenvolvedor backend interessado em programação distribuída</h3>
 
