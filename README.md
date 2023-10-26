@@ -8,7 +8,7 @@
 
 - 🔭 Trabalhando em [Getinfo](https://www.getinfo.net.br/)
 
-- 🌱 Atualmente estou trabalhando e estudando sobre programação distribuída nos ecossistemas **Spring/Java** e **.NET/C#** utilizando no frontend **Angular, TypeScript e RxJS**.
+- 🌱 Atualmente estou trabalhando e estudando sobre programação distribuída nos ecossistemas **Spring/Java** e **.NET/C#** utilizando no frontend **Angular, Javascript/TypeScript e RxJS**.
 
 - 📫 Como entrar em contato: **marciotenorioj@gmail.com**
 
